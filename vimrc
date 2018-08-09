@@ -60,6 +60,7 @@ set visualbell
 set whichwrap+=[,]
 set wildignore=*.swp,*.bak,*.pyc,*.class,*.o,*.obj
 set wildmode=list:longest
+set autochdir
 
 " VIM 7.3 specific options
 if version >= 703
